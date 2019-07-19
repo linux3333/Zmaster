@@ -1,10 +1,10 @@
 import os
-os.system('color D')
+os.system('color A')
 def menu():
 	"""
 	Función que limpia la pantalla y muestra nuevamente el menu
 	"""
-	os.system('cls')
+	os.system('clear')
 	print ("Selecciona una opción")
 	print ("\t1 - Tronox")
 	print ("\t2 - Joel")
